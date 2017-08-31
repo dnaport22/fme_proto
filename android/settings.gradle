@@ -1,0 +1,3 @@
+rootProject.name = 'fme_proto'
+
+include ':app'
